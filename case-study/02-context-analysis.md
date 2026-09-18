@@ -1,49 +1,44 @@
 # 02 — Context Analysis
 
-## 1. Purpose
+## Purpose
 
-The context analysis establishes the baseline needed to understand the environment in which the Quality Management System would operate.
+Context analysis establishes the baseline required to understand the environment in which a QMS operates.
 
-It combines organizational analysis with strategic tools such as **PESTEL** and **SWOT**.
+The project combines **internal/external analysis, PESTEL and SWOT** to identify factors that can influence quality performance and QMS priorities.
 
-## 2. Internal Context
+## Internal Context
 
-The internal analysis considers:
+The analysis considers:
 
-- organizational structure;
-- governance;
+- organizational structure and governance;
 - roles and responsibilities;
 - operational processes;
-- resources;
-- competencies;
+- resources and competencies;
 - quality practices;
 - information systems;
 - communication;
 - documentation;
 - performance indicators;
 - customer-related practices;
-- existing improvement initiatives.
+- improvement initiatives.
 
-The objective is to identify factors that can support or hinder the effectiveness of the QMS.
+The objective is to distinguish existing strengths from structural gaps that may affect QMS effectiveness.
 
-## 3. External Context
+## External Context
 
-The external analysis considers:
+The analysis considers:
 
 - customer expectations;
-- market conditions;
-- competitive environment;
-- economic conditions;
+- market and competitive conditions;
+- economic factors;
 - technological evolution;
-- regulatory and legal considerations;
+- legal and regulatory considerations;
 - social factors;
 - environmental considerations;
 - suppliers and external partners;
 - contractual expectations.
 
-## 4. PESTEL Analysis
-
-The PESTEL framework provides a structured view of external influences:
+## PESTEL Analysis
 
 | Dimension | Questions |
 |---|---|
@@ -54,9 +49,9 @@ The PESTEL framework provides a structured view of external influences:
 | **Ecological** | Which environmental expectations or constraints are relevant? |
 | **Legal** | Which laws, regulations and contractual requirements must be considered? |
 
-## 5. SWOT Analysis
+PESTEL is used as a decision-support tool rather than a descriptive exercise.
 
-The SWOT framework consolidates the diagnosis:
+## SWOT Analysis
 
 | Dimension | Focus |
 |---|---|
@@ -65,34 +60,29 @@ The SWOT framework consolidates the diagnosis:
 | **Opportunities** | Potential improvements and favorable developments |
 | **Threats** | External or internal factors that may affect performance |
 
-## 6. Strategic Interpretation
+The SWOT analysis consolidates the diagnosis and helps connect strategic observations to QMS priorities.
 
-The purpose of PESTEL and SWOT is not simply to produce descriptive tables.
+## From Diagnosis to Decisions
 
-The analyses should support decisions concerning:
+The analyses support decisions concerning:
 
 - QMS priorities;
 - quality objectives;
 - process controls;
-- risk treatment;
-- resources;
+- risks and opportunities;
+- resource requirements;
 - improvement actions.
 
-## 7. Link With ISO 9001
+## Link With ISO 9001
 
-Context analysis supports the understanding of:
+Context analysis provides inputs for understanding:
 
-- organizational context;
-- interested parties;
-- QMS scope;
-- processes;
-- risks and opportunities;
-- strategic direction.
+**Context → Interested Parties → QMS Scope → Processes → Risks & Opportunities → Objectives**
 
-## 8. Output
+This creates continuity between strategic analysis and the ISO 9001 assessment.
+
+## Output
 
 The contextual diagnosis becomes the baseline for:
 
 **Stakeholder Analysis → Process Mapping → Risk Analysis → ISO Assessment → Action Plan**
-
-This creates continuity between strategic analysis and operational improvement.
