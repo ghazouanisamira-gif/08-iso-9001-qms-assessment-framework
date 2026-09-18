@@ -1,41 +1,26 @@
-# 05 — ISO 9001 Self-Assessment
+# 05 — ISO 9001:2015 Self-Assessment
 
-## 1. Purpose
+## Purpose
 
 The self-assessment provides a structured diagnostic of quality-management practices against the principal requirement areas of **ISO 9001:2015**.
 
-The original academic work included an autodiagnostic approach and global analysis of results.
+The original academic work used an autodiagnostic approach to identify gaps, priorities and improvement opportunities. This public version preserves the method without reproducing confidential organizational data.
 
-This portfolio version preserves the method without reproducing confidential organizational data.
-
-## 2. Assessment Logic
+## Assessment Logic
 
 **Requirement → Evidence → Current State → Gap → Risk / Priority → Action → Follow-up**
 
-## 3. Evaluation Scale
+This creates traceability between what the standard expects, what is observed, what is missing and what should be addressed.
 
-A practical evaluation scale can distinguish levels of implementation:
-
-| Level | Interpretation |
-|---|---|
-| 0 | Requirement not addressed / no evidence |
-| 1 | Initial or informal practice |
-| 2 | Partially structured practice |
-| 3 | Established and monitored practice |
-
-The scale can be adapted to the assessment methodology used.
-
-## 4. ISO 9001 Requirement Areas
+## ISO 9001 Requirement Areas
 
 ### Clause 4 — Context of the Organization
-
 - context;
 - interested parties;
 - QMS scope;
 - processes and interactions.
 
 ### Clause 5 — Leadership
-
 - leadership and commitment;
 - quality policy;
 - roles;
@@ -43,13 +28,11 @@ The scale can be adapted to the assessment methodology used.
 - authorities.
 
 ### Clause 6 — Planning
-
 - risks and opportunities;
 - quality objectives;
 - planning for changes.
 
 ### Clause 7 — Support
-
 - resources;
 - competence;
 - awareness;
@@ -57,14 +40,12 @@ The scale can be adapted to the assessment methodology used.
 - documented information.
 
 ### Clause 8 — Operation
-
 - operational planning and control;
 - customer requirements;
 - service provision;
-- control of externally provided processes.
+- externally provided processes.
 
 ### Clause 9 — Performance Evaluation
-
 - monitoring and measurement;
 - customer satisfaction;
 - analysis and evaluation;
@@ -72,14 +53,26 @@ The scale can be adapted to the assessment methodology used.
 - management review.
 
 ### Clause 10 — Improvement
-
 - nonconformity;
 - corrective action;
 - continual improvement.
 
-## 5. Evidence Categories
+## Evaluation Scale
 
-Evidence may include:
+A practical diagnostic scale can distinguish levels of implementation:
+
+| Level | Interpretation |
+|---|---|
+| **0** | Requirement not addressed / no evidence |
+| **1** | Initial or informal practice |
+| **2** | Partially structured practice |
+| **3** | Established and monitored practice |
+
+The scale can be adapted to the assessment methodology.
+
+## Evidence Categories
+
+Potential evidence includes:
 
 - process maps;
 - procedures;
@@ -96,7 +89,7 @@ Evidence may include:
 - corrective actions;
 - improvement initiatives.
 
-## 6. Autodiagnostic Matrix
+## Self-Assessment Matrix
 
 | Requirement | Evidence | Current State | Gap | Priority | Action |
 |---|---|---|---|---|---|
@@ -108,16 +101,20 @@ Evidence may include:
 | Clause 9 | Evidence collected | Assessed | Identified | Defined | Planned |
 | Clause 10 | Evidence collected | Assessed | Identified | Defined | Planned |
 
-## 7. Result Interpretation
+## Result Interpretation
 
-Results can be presented through:
+Results can be consolidated through:
 
-- global score by chapter;
+- global results by chapter;
 - level of alignment by requirement area;
 - priority gaps;
 - risk exposure;
 - action priorities.
 
-These outputs support management discussions and roadmap construction.
+These outputs provide the analytical basis for management discussions and roadmap construction.
 
-> **Important:** This academic self-assessment is not an accredited certification audit and should not be interpreted as a formal certification-readiness conclusion.
+## Audit & Certification Context
+
+ISO 9001 implementation can involve different forms of audit and review, including internal assessment and external certification activities. The project uses self-assessment as a **diagnostic management tool**.
+
+> **Important:** This academic self-assessment is not an accredited certification audit and is not a formal certification-readiness conclusion.
