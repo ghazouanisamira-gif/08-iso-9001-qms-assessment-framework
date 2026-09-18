@@ -1,74 +1,106 @@
 # 05 — ISO 9001 Self-Assessment
 
-## Purpose
+## 1. Purpose
 
-The self-assessment provides a structured academic review of existing quality-management practices against the principal ISO 9001:2015 requirement areas.
+The self-assessment provides a structured academic review of existing quality-management practices against the main ISO 9001:2015 requirement areas.
 
-It is designed as a **diagnostic exercise**, not as a certification audit.
+It is designed as a **diagnostic and gap-assessment exercise**, not as an accredited certification audit.
 
-## Assessment Logic
+## 2. Assessment Logic
 
 **Requirement → Evidence → Current State → Gap → Risk / Priority → Action → Follow-up**
 
-## Main ISO 9001 Areas
+This logic provides traceability from the standard to practical improvement actions.
 
-The assessment considers the following requirement areas:
+## 3. Requirement Areas
 
 ### Clause 4 — Context of the Organization
-- Organizational context
-- Interested parties
-- QMS scope
-- Processes and interactions
+
+Focus areas:
+- organizational context;
+- interested parties;
+- QMS scope;
+- processes and interactions.
 
 ### Clause 5 — Leadership
-- Leadership and commitment
-- Quality policy
-- Roles, responsibilities and authorities
+
+Focus areas:
+- leadership and commitment;
+- quality policy;
+- organizational roles;
+- responsibilities and authorities.
 
 ### Clause 6 — Planning
-- Risks and opportunities
-- Quality objectives
-- Planning for changes
+
+Focus areas:
+- risks and opportunities;
+- quality objectives;
+- planning for changes.
 
 ### Clause 7 — Support
-- Resources
-- Competence
-- Awareness
-- Communication
-- Documented information
+
+Focus areas:
+- resources;
+- competence;
+- awareness;
+- communication;
+- documented information.
 
 ### Clause 8 — Operation
-- Operational planning and control
-- Customer requirements
-- Service/product provision
-- Control of externally provided processes
+
+Focus areas:
+- operational planning and control;
+- customer requirements;
+- service provision;
+- control of externally provided processes.
 
 ### Clause 9 — Performance Evaluation
-- Monitoring and measurement
-- Customer satisfaction
-- Internal audit
-- Management review
+
+Focus areas:
+- monitoring and measurement;
+- customer satisfaction;
+- internal audit;
+- management review.
 
 ### Clause 10 — Improvement
-- Nonconformity and corrective action
-- Continual improvement
 
-## Evidence-Based Approach
+Focus areas:
+- nonconformity;
+- corrective action;
+- continual improvement.
 
-The assessment focuses on available evidence such as:
+## 4. Evidence-Based Assessment
+
+The assessment considers available evidence such as:
 
 - process descriptions;
+- procedures and work instructions;
 - responsibilities;
-- documented information;
-- objectives and KPIs;
-- competence and training records;
+- quality objectives;
+- KPIs;
+- training and competence records;
+- customer feedback;
 - operational controls;
-- monitoring practices;
+- monitoring results;
 - corrective actions;
-- improvement records.
+- improvement initiatives.
 
-## Output
+## 5. Gap Analysis
 
-The assessment produces a structured view of strengths, gaps, risks and improvement priorities that feeds the action plan and implementation roadmap.
+Each area can be reviewed through:
 
-> It should not be interpreted as a formal ISO certification audit or a certification-readiness conclusion.
+| Question | Purpose |
+|---|---|
+| What is required? | Understand the requirement |
+| What evidence exists? | Establish the factual baseline |
+| What is the current state? | Assess maturity |
+| What is missing or inconsistent? | Identify the gap |
+| What is the potential impact? | Assess risk/priority |
+| What action is needed? | Define improvement |
+| How will progress be verified? | Establish follow-up |
+
+## 6. Output
+
+The assessment provides a structured baseline for the action plan, prioritization and implementation roadmap.
+
+> **Important:** This work should not be interpreted as a formal certification audit or as a statement that certification requirements were fully satisfied.
