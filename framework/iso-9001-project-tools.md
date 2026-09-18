@@ -2,112 +2,56 @@
 
 ## Purpose
 
-A practical toolkit for structuring a QMS assessment or implementation initiative from a project-management perspective.
+A project-management toolkit for structuring a QMS assessment and implementation initiative.
 
-## 1. Project Charter
+## Core Tools
 
-Defines:
+### 1. Project Charter
+Scope, objectives, deliverables, stakeholders, assumptions, constraints and governance.
 
-- business / quality context;
-- objectives;
-- scope;
-- deliverables;
-- stakeholders;
-- assumptions;
-- constraints;
-- governance.
+### 2. QQOQCP
+A concise framing tool for clarifying:
 
-## 2. Stakeholder Register
+**Who? What? Where? When? How? Why?**
 
-Captures:
+### 3. Stakeholder Register
+Stakeholder, role, expectations, influence, impact, engagement and communication.
 
-- stakeholder;
-- role;
-- interest;
-- influence;
-- expectations;
-- engagement needs;
-- communication approach.
+### 4. Process Map
+Purpose, inputs, activities, outputs, owner, interfaces, risks, controls and KPIs.
 
-## 3. Process Map
-
-Documents:
-
-- process purpose;
-- inputs;
-- activities;
-- outputs;
-- customers;
-- owner;
-- interfaces;
-- risks;
-- KPIs.
-
-## 4. SIPOC
-
+### 5. SIPOC
 **Suppliers → Inputs → Process → Outputs → Customers**
 
-Useful for establishing a high-level process baseline before detailed mapping.
+### 6. Risk Register
+Risk, cause, consequence, likelihood, impact, controls, mitigation, owner and status.
 
-## 5. Risk Register
+### 7. SWOT
+Strengths, Weaknesses, Opportunities and Threats.
 
-Tracks:
+### 8. PESTEL
+Political, Economic, Sociological, Technological, Ecological and Legal factors.
 
-- risk;
-- cause;
-- impact;
-- likelihood;
-- existing controls;
-- mitigation;
-- owner;
-- status.
-
-## 6. Gap Analysis
-
-Connects:
-
+### 9. Gap Analysis
 **Requirement → Evidence → Current State → Gap → Risk → Action**
 
-## 7. Action Plan
+### 10. Responsibility Matrix
+Clarifies who is accountable, responsible, consulted and informed.
 
-Defines:
+### 11. KPI Framework
+**Objective → KPI → Definition → Source → Frequency → Owner → Target → Review**
 
-- action;
-- priority;
-- owner;
-- deadline;
-- dependencies;
-- expected evidence;
-- status.
+### 12. Action Plan
+Action, priority, owner, deadline, dependency, evidence and status.
 
-## 8. Responsibility Matrix
+### 13. Milestone Tracker
+Deliverables, milestones, dependencies, delays, decisions and next actions.
 
-Clarifies who is:
+### 14. PDCA
+**Plan → Do → Check → Act**
 
-- accountable;
-- responsible;
-- consulted;
-- informed.
+Used as the continuous-improvement cycle connecting planning, execution, evaluation and adjustment.
 
-## 9. KPI Framework
+## Integrated Project Logic
 
-Connects:
-
-**Objective → KPI → Definition → Data Source → Frequency → Owner → Target → Review**
-
-## 10. Milestone Tracker
-
-Provides visibility on:
-
-- deliverables;
-- milestones;
-- dependencies;
-- delays;
-- decisions;
-- next actions.
-
-## Project Logic
-
-**Scope → Stakeholders → Diagnosis → Priorities → Workstreams → Actions → Monitoring → Improvement**
-
-The toolkit connects quality-management requirements with practical governance and project execution.
+**Scope → Context → Stakeholders → Processes → Risks → Requirements → Gaps → Priorities → Workstreams → Actions → Monitoring → Improvement**
