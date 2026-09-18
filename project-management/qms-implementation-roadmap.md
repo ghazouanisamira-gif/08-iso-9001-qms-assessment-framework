@@ -2,43 +2,124 @@
 
 ## Objective
 
-Translate the QMS assessment into a manageable implementation program.
+Translate the QMS assessment into a manageable implementation program with clear workstreams, responsibilities, milestones, dependencies and governance.
 
-## Phases
+## Phase 1 — Understand
 
-### 1. Understand
-Confirm scope, stakeholders, context and objectives.
+**Objective:** Establish the project foundation.
 
-### 2. Diagnose
-Map processes, collect evidence and identify gaps and risks.
+Activities:
+- confirm scope;
+- analyze context;
+- identify interested parties;
+- clarify objectives;
+- define governance;
+- establish project baseline.
 
-### 3. Prioritize
-Evaluate impact, risk, dependencies and implementation effort.
+**Outputs:** Project charter, stakeholder register, scope and governance structure.
 
-### 4. Design
-Define target practices, documentation, responsibilities, KPIs and governance.
+## Phase 2 — Diagnose
 
-### 5. Deploy
-Implement prioritized actions, communicate changes and develop competence.
+**Objective:** Establish the current-state baseline.
 
-### 6. Evaluate
-Monitor performance, review evidence and identify remaining gaps.
+Activities:
+- map processes;
+- collect evidence;
+- review documented information;
+- assess ISO 9001 requirement areas;
+- identify gaps;
+- identify risks and opportunities.
 
-### 7. Improve
-Launch corrective and improvement actions and maintain the management cycle.
+**Outputs:** Process map, evidence base, gap assessment and risk register.
+
+## Phase 3 — Prioritize
+
+**Objective:** Determine what should be addressed first.
+
+Criteria:
+- quality impact;
+- customer impact;
+- risk;
+- requirement relevance;
+- effort;
+- dependencies;
+- organizational priorities.
+
+**Outputs:** Prioritized action backlog and implementation sequence.
+
+## Phase 4 — Design
+
+**Objective:** Define the target QMS structure.
+
+Activities:
+- define process ownership;
+- structure documented information;
+- establish quality objectives;
+- define KPIs;
+- define controls;
+- establish review and governance routines.
+
+**Outputs:** Target operating framework, KPI framework, responsibilities and documentation plan.
+
+## Phase 5 — Deploy
+
+**Objective:** Implement prioritized actions.
+
+Activities:
+- execute workstreams;
+- communicate changes;
+- develop competence;
+- deploy documentation;
+- implement controls;
+- monitor adoption.
+
+**Outputs:** Implemented actions, evidence and progress reporting.
+
+## Phase 6 — Evaluate
+
+**Objective:** Verify effectiveness.
+
+Activities:
+- monitor KPIs;
+- review evidence;
+- evaluate process performance;
+- identify remaining gaps;
+- conduct structured reviews.
+
+**Outputs:** Performance review, remaining-gap register and improvement actions.
+
+## Phase 7 — Improve
+
+**Objective:** Establish continual improvement.
+
+Activities:
+- corrective actions;
+- root-cause analysis;
+- improvement initiatives;
+- lessons learned;
+- roadmap updates.
+
+**Outputs:** Corrective/improvement actions and updated improvement backlog.
 
 ## PMO Governance
 
-The implementation can be managed through:
+The program can be governed through:
 
 - workstream ownership;
-- milestones and dependencies;
-- risk and issue tracking;
+- milestone tracking;
+- dependency management;
+- risk and issue registers;
 - stakeholder communication;
 - periodic progress reviews;
 - decision and escalation routines;
-- KPI and action reporting.
+- consolidated reporting.
+
+## Suggested Governance Cycle
+
+**Plan → Execute → Measure → Review → Decide → Adjust**
 
 ## Key Principle
 
-A QMS implementation should be treated as a structured transformation initiative, connecting quality requirements with operational processes, people, governance and measurable outcomes.
+A QMS implementation should be treated as a structured transformation initiative connecting:
+
+**Quality Requirements → Processes → People → Governance → Performance → Continuous Improvement**
