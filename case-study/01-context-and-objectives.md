@@ -1,24 +1,33 @@
 # 01 — Context & Objectives
 
-## Context
+## Academic Context
 
-This academic project explored the initiation of a Quality Management System based on ISO 9001:2015 principles within an anonymized service organization.
+This final-year Master's project explored the **initiation of a Quality Management System according to ISO 9001:2015** within an anonymized service-sector organization.
 
-The objective was not to conduct a certification audit, but to understand the organization's context, identify improvement opportunities and translate the analysis into a structured QMS implementation approach.
+The study was designed as an applied academic project, combining theoretical requirements with an analysis of an operational environment.
 
-## Objectives
+## Main Objective
 
-- Understand the organizational context and relevant internal/external issues.
-- Identify interested parties and their expectations.
-- Understand the organization's key processes and interactions.
-- Assess the maturity of existing quality-management practices.
-- Identify gaps, risks and improvement priorities.
-- Propose an actionable implementation roadmap.
-- Structure responsibilities, milestones and follow-up from a project-management perspective.
+The objective was to assess the existing quality-management practices, identify gaps against the principles and requirements of ISO 9001:2015, and propose a structured approach for progressively establishing a QMS.
 
-## Deliverables
+## Specific Objectives
 
-The work produced an academic diagnostic framework covering:
+- Understand the organization's context.
+- Identify relevant interested parties.
+- Identify and structure key processes.
+- Analyze risks and opportunities.
+- Assess the existing quality-management practices.
+- Identify gaps and improvement priorities.
+- Define actions and responsibilities.
+- Establish a practical implementation roadmap.
+- Introduce a governance and monitoring perspective.
+
+## Expected Contribution
+
+The project aimed to move from a theoretical understanding of ISO 9001 toward a practical implementation logic:
 
 **Context → Processes → Risks → Requirements → Gaps → Priorities → Actions → Roadmap**
 
+## Scope
+
+The study focuses on QMS initiation and assessment. It does not claim that the organization obtained ISO 9001 certification as a result of the project.
