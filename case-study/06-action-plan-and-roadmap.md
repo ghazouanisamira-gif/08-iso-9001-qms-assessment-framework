@@ -1,87 +1,103 @@
 # 06 — Action Plan & Roadmap
 
-## 1. From Diagnosis to Action
+## 1. Purpose
 
-The assessment findings are translated into a structured improvement plan.
+The action plan translates diagnostic findings into concrete improvement activities.
 
-The objective is to avoid producing a static list of gaps and instead create a sequence of **owned, prioritized and monitorable actions**.
+The objective is to move from:
 
-## 2. Action Structure
+**Findings → Priorities → Actions → Ownership → Evidence → Follow-up**
 
-Each action should define:
+## 2. Action Plan Structure
+
+Each action should specify:
 
 - requirement or identified gap;
-- root issue / opportunity;
-- expected outcome;
+- root issue;
+- expected result;
 - priority;
 - owner;
 - contributors;
-- target date;
+- deadline;
 - dependencies;
-- required resources;
+- resources;
 - expected evidence;
 - status;
 - follow-up method.
 
-## 3. Prioritization Criteria
+## 3. Prioritization
 
-Actions can be prioritized using:
+Priorities can be established using:
 
 - quality impact;
 - customer impact;
 - operational risk;
 - compliance relevance;
 - implementation effort;
-- dependency level;
+- dependencies;
 - organizational priorities.
 
-## 4. Implementation Roadmap
+## 4. Dynamic Project Planning
+
+The project is not treated as a static implementation schedule.
+
+Planning should evolve according to:
+
+- assessment findings;
+- risk levels;
+- dependencies;
+- available resources;
+- stakeholder decisions;
+- progress;
+- emerging issues.
+
+## 5. Roadmap
 
 ### Phase 1 — Understand
-Confirm context, scope, stakeholders, objectives and governance.
+Scope, context, stakeholders, objectives and governance.
 
 ### Phase 2 — Diagnose
-Map processes, collect evidence, assess requirements and identify gaps.
+Processes, evidence, requirements, gaps and risks.
 
 ### Phase 3 — Prioritize
-Determine critical gaps, risks, dependencies and quick wins.
+Critical gaps, risks, dependencies and improvement opportunities.
 
 ### Phase 4 — Design
-Define target processes, responsibilities, documentation, KPIs and controls.
+Target processes, responsibilities, documentation, KPIs and controls.
 
 ### Phase 5 — Deploy
-Implement prioritized actions, communicate changes and develop competencies.
+Actions, communication, competence development and operational controls.
 
 ### Phase 6 — Evaluate
-Monitor KPIs, review evidence, assess effectiveness and identify remaining gaps.
+KPIs, evidence, effectiveness and remaining gaps.
 
 ### Phase 7 — Improve
-Execute corrective actions, capture lessons learned and maintain continual improvement.
+Corrective action, root-cause analysis, lessons learned and continuous improvement.
 
-## 5. PMO Governance
-
-The implementation can be managed through:
-
-- workstreams;
-- milestones;
-- ownership;
-- dependencies;
-- risk and issue registers;
-- stakeholder communication;
-- progress reporting;
-- review meetings;
-- decision and escalation routines.
-
-## 6. Example Action-Plan Structure
+## 6. Example Action Register
 
 | Gap | Priority | Action | Owner | Deadline | Evidence | Status |
 |---|---|---|---|---|---|---|
-| Process not formally defined | High | Document process and owner | Process Owner | T+30 | Approved process map | Planned |
-| KPI not standardized | Medium | Define KPI dictionary and review routine | Quality / Management | T+45 | KPI framework | Planned |
-| Corrective actions not centralized | High | Establish action register | Quality | T+30 | Action register | Planned |
+| Process insufficiently formalized | High | Document process and ownership | Process Owner | T+30 | Approved process map | Planned |
+| KPI definitions inconsistent | Medium | Establish KPI dictionary | Quality / Management | T+45 | KPI framework | Planned |
+| Actions not centrally tracked | High | Establish action register | Quality | T+30 | Action register | Planned |
 
-## 7. Expected Outcome
+## 7. PMO Governance
 
-The roadmap creates a practical bridge between ISO 9001 requirements and operational implementation, connecting:
+The implementation can be governed through:
 
-**Quality → Processes → People → Governance → Performance → Improvement**
+- workstreams;
+- milestones;
+- responsibilities;
+- dependencies;
+- risks and issues;
+- stakeholder communication;
+- progress reporting;
+- review meetings;
+- decisions and escalation.
+
+## 8. Expected Outcome
+
+The action plan and roadmap create a bridge between:
+
+**ISO Requirements → Quality Practices → Processes → People → Governance → Performance → Improvement**
