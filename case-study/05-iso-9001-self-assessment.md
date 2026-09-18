@@ -2,44 +2,54 @@
 
 ## 1. Purpose
 
-The self-assessment provides a structured academic review of existing quality-management practices against the main ISO 9001:2015 requirement areas.
+The self-assessment provides a structured diagnostic of quality-management practices against the principal requirement areas of **ISO 9001:2015**.
 
-It is designed as a **diagnostic and gap-assessment exercise**, not as an accredited certification audit.
+The original academic work included an autodiagnostic approach and global analysis of results.
+
+This portfolio version preserves the method without reproducing confidential organizational data.
 
 ## 2. Assessment Logic
 
 **Requirement → Evidence → Current State → Gap → Risk / Priority → Action → Follow-up**
 
-This logic provides traceability from the standard to practical improvement actions.
+## 3. Evaluation Scale
 
-## 3. Requirement Areas
+A practical evaluation scale can distinguish levels of implementation:
+
+| Level | Interpretation |
+|---|---|
+| 0 | Requirement not addressed / no evidence |
+| 1 | Initial or informal practice |
+| 2 | Partially structured practice |
+| 3 | Established and monitored practice |
+
+The scale can be adapted to the assessment methodology used.
+
+## 4. ISO 9001 Requirement Areas
 
 ### Clause 4 — Context of the Organization
 
-Focus areas:
-- organizational context;
+- context;
 - interested parties;
 - QMS scope;
 - processes and interactions.
 
 ### Clause 5 — Leadership
 
-Focus areas:
 - leadership and commitment;
 - quality policy;
-- organizational roles;
-- responsibilities and authorities.
+- roles;
+- responsibilities;
+- authorities.
 
 ### Clause 6 — Planning
 
-Focus areas:
 - risks and opportunities;
 - quality objectives;
 - planning for changes.
 
 ### Clause 7 — Support
 
-Focus areas:
 - resources;
 - competence;
 - awareness;
@@ -48,7 +58,6 @@ Focus areas:
 
 ### Clause 8 — Operation
 
-Focus areas:
 - operational planning and control;
 - customer requirements;
 - service provision;
@@ -56,51 +65,59 @@ Focus areas:
 
 ### Clause 9 — Performance Evaluation
 
-Focus areas:
 - monitoring and measurement;
 - customer satisfaction;
+- analysis and evaluation;
 - internal audit;
 - management review.
 
 ### Clause 10 — Improvement
 
-Focus areas:
 - nonconformity;
 - corrective action;
 - continual improvement.
 
-## 4. Evidence-Based Assessment
+## 5. Evidence Categories
 
-The assessment considers available evidence such as:
+Evidence may include:
 
-- process descriptions;
-- procedures and work instructions;
-- responsibilities;
-- quality objectives;
+- process maps;
+- procedures;
+- work instructions;
+- organizational responsibilities;
+- quality policy;
+- objectives;
 - KPIs;
-- training and competence records;
+- competence and training records;
 - customer feedback;
 - operational controls;
 - monitoring results;
+- internal reviews;
 - corrective actions;
 - improvement initiatives.
 
-## 5. Gap Analysis
+## 6. Autodiagnostic Matrix
 
-Each area can be reviewed through:
+| Requirement | Evidence | Current State | Gap | Priority | Action |
+|---|---|---|---|---|---|
+| Clause 4 | Evidence collected | Assessed | Identified | Defined | Planned |
+| Clause 5 | Evidence collected | Assessed | Identified | Defined | Planned |
+| Clause 6 | Evidence collected | Assessed | Identified | Defined | Planned |
+| Clause 7 | Evidence collected | Assessed | Identified | Defined | Planned |
+| Clause 8 | Evidence collected | Assessed | Identified | Defined | Planned |
+| Clause 9 | Evidence collected | Assessed | Identified | Defined | Planned |
+| Clause 10 | Evidence collected | Assessed | Identified | Defined | Planned |
 
-| Question | Purpose |
-|---|---|
-| What is required? | Understand the requirement |
-| What evidence exists? | Establish the factual baseline |
-| What is the current state? | Assess maturity |
-| What is missing or inconsistent? | Identify the gap |
-| What is the potential impact? | Assess risk/priority |
-| What action is needed? | Define improvement |
-| How will progress be verified? | Establish follow-up |
+## 7. Result Interpretation
 
-## 6. Output
+Results can be presented through:
 
-The assessment provides a structured baseline for the action plan, prioritization and implementation roadmap.
+- global score by chapter;
+- level of alignment by requirement area;
+- priority gaps;
+- risk exposure;
+- action priorities.
 
-> **Important:** This work should not be interpreted as a formal certification audit or as a statement that certification requirements were fully satisfied.
+These outputs support management discussions and roadmap construction.
+
+> **Important:** This academic self-assessment is not an accredited certification audit and should not be interpreted as a formal certification-readiness conclusion.
