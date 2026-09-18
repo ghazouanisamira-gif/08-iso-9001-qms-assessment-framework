@@ -1,37 +1,55 @@
 # 02 — Context Analysis
 
-## Objective
+## Purpose
 
-The context analysis provides the foundation for understanding the environment in which a QMS would operate.
+The context analysis establishes the foundation for understanding the environment in which a Quality Management System would operate.
 
-## Analysis Areas
+The analysis considers both internal and external factors that may influence the organization's ability to achieve intended quality outcomes.
 
-### Internal Context
-- Organizational structure and responsibilities
-- Existing processes and operating practices
-- Resources and competencies
-- Quality objectives and performance indicators
-- Existing documentation and controls
-- Communication and coordination mechanisms
+## Internal Context
 
-### External Context
-- Customer expectations
-- Market and competitive environment
-- Regulatory and contractual considerations
-- Technology and digital transformation
-- Relevant stakeholder expectations
+The assessment considers areas such as:
+
+- organizational structure;
+- roles and responsibilities;
+- existing processes and practices;
+- available resources;
+- competencies;
+- quality objectives;
+- performance indicators;
+- internal communication;
+- documentation and information management;
+- existing improvement practices.
+
+## External Context
+
+Relevant external factors may include:
+
+- customer expectations;
+- market conditions;
+- competitive environment;
+- contractual requirements;
+- regulatory considerations;
+- technology and digital transformation;
+- external partners and suppliers;
+- broader stakeholder expectations.
 
 ## Strategic Perspective
 
-The analysis supports the identification of factors that may influence:
+Understanding the context helps identify factors that can influence:
 
-- quality performance;
 - customer satisfaction;
-- operational consistency;
+- service quality;
 - process effectiveness;
+- operational consistency;
+- compliance;
 - risk exposure;
 - improvement priorities.
 
 ## Output
 
-The context analysis feeds the subsequent process mapping, interested-party analysis, risk assessment and QMS gap assessment.
+The context analysis provides inputs for:
+
+**Interested Parties → Process Mapping → Risk Analysis → QMS Assessment → Action Planning**
+
+This creates a coherent link between organizational reality and ISO 9001 requirements.
