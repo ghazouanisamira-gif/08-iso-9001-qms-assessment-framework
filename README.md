@@ -4,64 +4,82 @@
 
 ## Overview
 
-This project is based on an academic final-year Master's study focused on the **initiation of a Quality Management System (QMS) according to ISO 9001:2015** within an anonymized service-sector organization.
+This portfolio project is based on a final-year Master's study focused on the **initiation of a Quality Management System (QMS) according to ISO 9001:2015** within an anonymized service-sector organization.
 
-The work combines quality-management analysis with a structured project-management perspective: understanding the organizational context, mapping processes, identifying interested parties and risks, assessing current practices against ISO 9001 requirements, prioritizing gaps, and translating findings into an implementation roadmap.
+The project translates ISO 9001 principles into a practical management approach: understanding the organizational context, identifying interested parties, mapping processes, assessing risks, reviewing existing practices against the standard, prioritizing gaps and defining an implementation roadmap.
 
-> **Scope note:** This is an academic assessment and QMS initiation project. It does not represent a completed ISO 9001 certification, an accredited certification audit, or a formal certification-readiness conclusion.
+The work is presented here as an **anonymized academic case study**, with emphasis on transferable Quality, Governance and Project Management capabilities.
+
+> **Scope note:** This project represents an academic assessment and initiation of a QMS. It does not claim that ISO 9001 certification was obtained, that an accredited certification audit was performed, or that the organization was formally declared certification-ready.
 
 ## Project Objectives
 
-- Analyze the organizational context and relevant internal/external issues.
+- Analyze the organizational context and relevant internal and external issues.
 - Identify interested parties and their expectations.
-- Understand and structure the organization's processes.
+- Identify, structure and understand key processes and interactions.
 - Apply the process approach and risk-based thinking.
 - Assess existing quality-management practices against ISO 9001:2015.
 - Identify gaps, risks and improvement opportunities.
-- Prioritize actions according to business and quality impact.
-- Propose a structured roadmap for QMS implementation.
-- Connect quality requirements with project governance, responsibilities, milestones and follow-up.
+- Prioritize actions according to quality, operational and stakeholder impact.
+- Define responsibilities, actions and follow-up mechanisms.
+- Build a structured roadmap for QMS implementation.
+- Introduce a PMO-style governance perspective for implementation.
 
-## Approach
+## Methodology
 
 **Understand → Diagnose → Map → Assess → Prioritize → Plan → Improve**
 
-The approach brings together:
+The methodology connects:
 
-- ISO 9001:2015 requirement analysis
-- Context and interested-party analysis
-- Process mapping and process interactions
-- Risk-based thinking
-- QMS self-assessment
-- Gap analysis
-- Corrective and improvement planning
-- Implementation roadmap
-- Project governance and monitoring
+**Context → Interested Parties → Processes → Risks → Requirements → Evidence → Gaps → Priorities → Actions → Roadmap**
 
-## Case Study
+## Case Study Structure
 
-1. [Context & Objectives](case-study/01-context-and-objectives.md)
-2. [Context Analysis](case-study/02-context-analysis.md)
-3. [Process Approach](case-study/03-process-approach.md)
-4. [Interested Parties & Risks](case-study/04-interested-parties-and-risks.md)
-5. [ISO 9001 Self-Assessment](case-study/05-iso-9001-self-assessment.md)
-6. [Action Plan & Roadmap](case-study/06-action-plan-and-roadmap.md)
+### 01 — Context & Objectives
+Project background, scope, objectives and expected contribution.
+
+### 02 — Context Analysis
+Internal/external context and factors influencing the QMS.
+
+### 03 — Process Approach
+Process architecture, interactions, inputs, outputs, responsibilities and controls.
+
+### 04 — Interested Parties & Risks
+Stakeholder expectations, risk-based thinking and prioritization.
+
+### 05 — ISO 9001 Self-Assessment
+Structured review of ISO 9001:2015 requirement areas using evidence and gap analysis.
+
+### 06 — Action Plan & Roadmap
+Translation of findings into priorities, actions, governance and implementation phases.
 
 ## Practical Frameworks
 
-- [QMS Assessment Framework](framework/qms-assessment-framework.md)
-- [ISO 9001 Project Tools](framework/iso-9001-project-tools.md)
-- [ISO 9001 Clause Mapping](framework/iso-9001-clause-mapping.md)
-- [QMS Readiness Matrix](framework/qms-readiness-matrix.md)
+- **QMS Assessment Framework** — reusable diagnostic structure.
+- **ISO 9001 Project Tools** — project and governance toolkit.
+- **ISO 9001 Clause Mapping** — requirement-to-evidence-to-action traceability.
+- **QMS Readiness Matrix** — maturity visualization and prioritization tool.
 
-## Project Management
+## Project Management Layer
 
-- [QMS Implementation Roadmap](project-management/qms-implementation-roadmap.md)
+The QMS initiative is treated as a structured transformation project with:
+
+- scope and objectives;
+- stakeholders;
+- workstreams;
+- responsibilities;
+- milestones;
+- dependencies;
+- risks and issues;
+- communication;
+- progress reporting;
+- decision and escalation routines;
+- continuous improvement.
 
 ## Skills Demonstrated
 
-**Quality Management · ISO 9001:2015 · QMS · Process Approach · Risk-Based Thinking · Gap Analysis · Continuous Improvement · Project Structuring · Governance · Stakeholder Analysis · Action Planning · PMO Perspective**
+**Quality Management · ISO 9001:2015 · QMS · Process Approach · Risk-Based Thinking · Gap Analysis · Continuous Improvement · Governance · Stakeholder Management · Project Structuring · Action Planning · PMO Perspective**
 
 ## Confidentiality
 
-The case study is intentionally anonymized. The organization, client identities, proprietary information and confidential operational details are not disclosed.
+The case study is intentionally anonymized. No organization name, client identity, proprietary information or confidential operational detail is disclosed.
