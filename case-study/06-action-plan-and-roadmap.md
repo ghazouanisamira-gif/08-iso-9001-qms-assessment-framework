@@ -1,39 +1,76 @@
 # 06 — Action Plan & Roadmap
 
-## From Diagnosis to Action
+## From Assessment to Action
 
-The assessment findings are translated into a structured improvement plan.
+The assessment findings are translated into a structured action plan designed to progressively address identified gaps and improvement opportunities.
 
 ## Action Structure
 
-Each action can be defined through:
+Each action can include:
 
-- identified gap or opportunity;
+- identified requirement or gap;
+- root issue / opportunity;
 - expected outcome;
 - priority;
-- responsible owner;
+- action owner;
 - contributors;
-- target milestone;
+- target date;
 - dependencies;
-- required evidence;
+- required resources;
+- expected evidence;
 - status;
 - follow-up method.
+
+## Prioritization
+
+Actions can be prioritized according to:
+
+- quality impact;
+- customer impact;
+- operational risk;
+- compliance relevance;
+- implementation effort;
+- dependencies;
+- organizational priorities.
 
 ## Roadmap Logic
 
 **Understand → Diagnose → Prioritize → Design → Deploy → Evaluate → Improve**
 
-## Governance
+### Understand
+Confirm scope, context, stakeholders and objectives.
 
-A PMO-oriented governance model supports:
+### Diagnose
+Map processes, collect evidence and assess current practices.
 
-- milestone tracking;
-- action ownership;
-- risk and dependency monitoring;
+### Prioritize
+Identify critical gaps, risks and improvement priorities.
+
+### Design
+Define target practices, responsibilities, documentation, KPIs and governance.
+
+### Deploy
+Implement actions, communicate changes and develop required competencies.
+
+### Evaluate
+Monitor performance, review evidence and assess progress.
+
+### Improve
+Address remaining gaps and establish continual-improvement mechanisms.
+
+## PMO Perspective
+
+The roadmap can be managed as a structured transformation initiative through:
+
+- workstreams;
+- milestones;
+- ownership;
+- dependencies;
+- risk and issue tracking;
 - stakeholder communication;
 - progress reporting;
 - decision and escalation routines.
 
 ## Expected Outcome
 
-The roadmap provides a practical sequence for progressively structuring a QMS while maintaining alignment between quality requirements, operational reality and organizational priorities.
+The roadmap provides a practical bridge between ISO 9001 requirements and operational implementation while maintaining alignment between quality, people, processes and performance.
