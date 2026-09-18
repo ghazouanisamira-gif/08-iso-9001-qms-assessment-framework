@@ -2,9 +2,7 @@
 
 ## Purpose
 
-This framework provides a reusable structure for assessing the maturity of Quality Management System practices and translating findings into improvement priorities.
-
-It combines ISO 9001 thinking with process, risk and project-management perspectives.
+A reusable framework for diagnosing the maturity of Quality Management System practices and converting assessment findings into improvement priorities.
 
 ## Assessment Dimensions
 
@@ -14,54 +12,51 @@ It combines ISO 9001 thinking with process, risk and project-management perspect
 4. Process architecture and interactions
 5. Leadership and responsibilities
 6. Risk and opportunity management
-7. Quality objectives and KPIs
-8. Competence and awareness
-9. Communication
-10. Documented information
-11. Operational control
-12. Performance evaluation
-13. Corrective action
-14. Continual improvement
+7. Quality policy and objectives
+8. KPIs and performance monitoring
+9. Competence and awareness
+10. Communication
+11. Documented information
+12. Operational control
+13. Performance evaluation
+14. Corrective action
+15. Continual improvement
 
-## Assessment Flow
+## Diagnostic Flow
 
-**Collect Evidence → Assess Current State → Identify Gaps → Evaluate Risk → Prioritize → Define Actions → Monitor → Improve**
+**Collect Evidence → Assess → Identify Gaps → Evaluate Risk → Prioritize → Define Actions → Monitor → Improve**
 
-## Evidence Categories
-
-Evidence may include:
+## Evidence Sources
 
 - process documentation;
 - procedures;
 - work instructions;
-- organizational responsibilities;
+- responsibilities;
 - quality objectives;
 - KPIs;
 - training records;
 - customer feedback;
 - operational controls;
-- review outputs;
+- monitoring results;
+- audit/review outputs;
 - corrective actions;
 - improvement initiatives.
 
 ## Maturity Perspective
 
-A maturity assessment can distinguish between:
+The framework distinguishes between:
 
-- informal practices;
-- partially structured practices;
-- documented and consistently applied practices;
-- monitored and improved practices.
+**Informal → Partially Structured → Established → Monitored & Improved**
 
 ## Prioritization
 
-The framework supports prioritization according to:
+Priority can combine:
 
-**Impact + Risk + Requirement relevance + Effort + Dependencies**
+**Impact + Risk + Requirement Relevance + Effort + Dependencies**
 
-## PMO Perspective
+## PMO Baseline
 
-The assessment can become the baseline for a QMS implementation program by defining:
+The assessment becomes a project baseline through:
 
 - workstreams;
 - deliverables;
@@ -72,6 +67,10 @@ The assessment can become the baseline for a QMS implementation program by defin
 - reporting routines;
 - decision points.
 
-## Principle
+## Output
 
-The framework supports structured diagnosis and improvement. It does not replace an accredited ISO 9001 certification audit.
+The framework produces a structured view of:
+
+**Current State → Gaps → Risks → Priorities → Actions → Roadmap**
+
+> This framework supports diagnostic and improvement work. It does not replace an accredited certification audit.
