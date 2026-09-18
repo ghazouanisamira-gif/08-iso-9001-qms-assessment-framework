@@ -3,13 +3,19 @@
 **Author: Samira Ghazouani**  
 **Academic Case Study | Professional Master's in Integrated QSE/QHSE Management | 2019–2020**
 
+## Academic Project Origin
+
+This portfolio is based on a **Final-Year Internship Report completed for the Professional Master's Degree in Integrated Management: Quality–Safety–Environment (QSE)** during the **2019–2020 academic year**.
+
+The original academic work was titled **“Initiation à la mise en place d’un Système de Management selon la norme ISO 9001 Version 2015”** and focused on the initiation and structuring of a Quality Management System (QMS) aligned with ISO 9001:2015.
+
+The public portfolio version has been redesigned as an **anonymized professional case study**, preserving the analytical methodology, project logic and transferable capabilities while removing organization-specific identifiers and confidential information.
+
 ## From Quality Diagnosis to a Structured QMS Implementation Roadmap
 
 This applied academic project focused on the **initiation of a Quality Management System (QMS) aligned with ISO 9001:2015** within an anonymized service-sector organization.
 
 The work went beyond a theoretical review of the standard. It connected **organizational diagnosis, strategic analysis, process mapping, stakeholder analysis, risk management, ISO 9001 self-assessment and action planning** to establish a structured foundation for QMS implementation.
-
-The portfolio version preserves the original analytical logic while intentionally removing the identity of the organization and confidential operational information.
 
 ## Project Challenge
 
