@@ -1,5 +1,6 @@
 # ISO 9001:2015 — QMS Assessment & Implementation Framework
 
+**Author: Samira Ghazouani**  
 **Academic Case Study | Professional Master's in Integrated QSE/QHSE Management | 2019–2020**
 
 ## From Quality Diagnosis to a Structured QMS Implementation Roadmap
