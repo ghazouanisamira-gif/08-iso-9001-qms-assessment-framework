@@ -136,3 +136,8 @@ The portfolio intentionally emphasizes the **methodology, analytical approach, p
 ## Confidentiality
 
 The organization, its clients, proprietary information and confidential operational details are intentionally anonymized. Company-specific identifiers, internal figures and identifying visuals are excluded from this public portfolio version.
+
+## Related Portfolio Evidence
+
+- [Quality & Governance Framework](https://github.com/ghazouanisamira-gif/02-quality-governance-framework) — professional quality governance evidence.
+- [Project Management Toolkit](https://github.com/ghazouanisamira-gif/01-project-management-toolkit) — reusable project-management and governance tools.
