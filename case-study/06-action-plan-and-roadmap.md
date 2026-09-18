@@ -1,6 +1,6 @@
-# 06 — Action Plan & Roadmap
+# 06 — Action Plan, Implementation & Roadmap
 
-## 1. Purpose
+## Purpose
 
 The action plan translates diagnostic findings into concrete improvement activities.
 
@@ -8,7 +8,7 @@ The objective is to move from:
 
 **Findings → Priorities → Actions → Ownership → Evidence → Follow-up**
 
-## 2. Action Plan Structure
+## Action Plan Structure
 
 Each action should specify:
 
@@ -25,23 +25,23 @@ Each action should specify:
 - status;
 - follow-up method.
 
-## 3. Prioritization
+## Prioritization
 
-Priorities can be established using:
+Actions can be prioritized according to:
 
 - quality impact;
 - customer impact;
 - operational risk;
-- compliance relevance;
+- requirement relevance;
 - implementation effort;
 - dependencies;
 - organizational priorities.
 
-## 4. Dynamic Project Planning
+## Dynamic Project Planning
 
-The project is not treated as a static implementation schedule.
+The project is approached as a transformation initiative rather than a static schedule.
 
-Planning should evolve according to:
+Planning evolves according to:
 
 - assessment findings;
 - risk levels;
@@ -51,7 +51,9 @@ Planning should evolve according to:
 - progress;
 - emerging issues.
 
-## 5. Roadmap
+This creates a more realistic implementation logic and allows priorities to be adjusted as evidence becomes available.
+
+## Implementation Roadmap
 
 ### Phase 1 — Understand
 Scope, context, stakeholders, objectives and governance.
@@ -74,7 +76,7 @@ KPIs, evidence, effectiveness and remaining gaps.
 ### Phase 7 — Improve
 Corrective action, root-cause analysis, lessons learned and continuous improvement.
 
-## 6. Example Action Register
+## Example Action Register
 
 | Gap | Priority | Action | Owner | Deadline | Evidence | Status |
 |---|---|---|---|---|---|---|
@@ -82,7 +84,7 @@ Corrective action, root-cause analysis, lessons learned and continuous improveme
 | KPI definitions inconsistent | Medium | Establish KPI dictionary | Quality / Management | T+45 | KPI framework | Planned |
 | Actions not centrally tracked | High | Establish action register | Quality | T+30 | Action register | Planned |
 
-## 7. PMO Governance
+## PMO Governance
 
 The implementation can be governed through:
 
@@ -96,8 +98,14 @@ The implementation can be governed through:
 - review meetings;
 - decisions and escalation.
 
-## 8. Expected Outcome
+### Governance Cycle
+
+**Plan → Execute → Measure → Review → Decide → Adjust**
+
+## Expected Outcome
 
 The action plan and roadmap create a bridge between:
 
 **ISO Requirements → Quality Practices → Processes → People → Governance → Performance → Improvement**
+
+The portfolio presentation therefore highlights not only ISO knowledge, but also the ability to structure a transformation initiative from diagnosis through action planning and governance.
