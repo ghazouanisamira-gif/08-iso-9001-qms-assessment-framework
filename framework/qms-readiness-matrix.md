@@ -2,34 +2,56 @@
 
 ## Purpose
 
-A simple maturity matrix for visualizing the current state of QMS practices and identifying priorities for improvement.
+A structured maturity matrix for visualizing the current state of QMS practices, identifying weaknesses and sequencing improvement priorities.
 
 ## Maturity Scale
 
-| Score | Meaning |
+| Score | Meaning | Typical Situation |
+|---|---|---|
+| 0 | Not established | No evidence or practice identified |
+| 1 | Initial | Informal or inconsistent practice |
+| 2 | Partially structured | Practice exists but is not fully standardized or monitored |
+| 3 | Established and monitored | Practice is structured, applied and monitored |
+
+## Assessment Dimensions
+
+| Dimension | What to Examine |
 |---|---|
-| 0 | Not established / no evidence identified |
-| 1 | Initial / informal |
-| 2 | Partially structured |
-| 3 | Established and monitored |
+| Context | Internal/external issues and QMS scope |
+| Interested parties | Relevant needs and expectations |
+| Processes | Process definition and interactions |
+| Responsibilities | Ownership and authorities |
+| Risks | Risk identification, treatment and monitoring |
+| Objectives | Quality objectives and KPI alignment |
+| Competence | Skills, awareness and development |
+| Documentation | Controlled documented information |
+| Operations | Operational planning and controls |
+| Performance | Monitoring, analysis and evaluation |
+| Corrective action | Treatment of nonconformities and root causes |
+| Improvement | Continual-improvement mechanisms |
 
-## Dimensions
+## Example Matrix
 
-- Context and scope
-- Interested parties
-- Process definition
-- Responsibilities
-- Risk management
-- Quality objectives and KPIs
-- Competence
-- Documented information
-- Operational control
-- Performance evaluation
-- Corrective action
-- Continual improvement
+| Dimension | Score | Evidence | Gap | Priority | Action |
+|---|---:|---|---|---|---|
+| Context |  |  |  |  |  |
+| Processes |  |  |  |  |  |
+| Risks |  |  |  |  |  |
+| Objectives / KPIs |  |  |  |  |  |
+| Competence |  |  |  |  |  |
+| Documentation |  |  |  |  |  |
+| Performance |  |  |  |  |  |
+| Improvement |  |  |  |  |  |
 
 ## Use
 
-The matrix helps transform qualitative observations into a structured view of priorities and supports roadmap sequencing.
+The matrix supports:
 
-It should be interpreted as a diagnostic project tool, not as a formal certification-readiness assessment.
+- gap visualization;
+- management discussions;
+- prioritization;
+- roadmap sequencing;
+- progress reviews;
+- continuous improvement.
+
+> This is a diagnostic project tool. It should not be interpreted as a formal certification-readiness assessment.
