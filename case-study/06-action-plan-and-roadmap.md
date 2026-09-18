@@ -1,18 +1,20 @@
 # 06 — Action Plan & Roadmap
 
-## From Assessment to Action
+## 1. From Diagnosis to Action
 
-The assessment findings are translated into a structured action plan designed to progressively address identified gaps and improvement opportunities.
+The assessment findings are translated into a structured improvement plan.
 
-## Action Structure
+The objective is to avoid producing a static list of gaps and instead create a sequence of **owned, prioritized and monitorable actions**.
 
-Each action can include:
+## 2. Action Structure
 
-- identified requirement or gap;
+Each action should define:
+
+- requirement or identified gap;
 - root issue / opportunity;
 - expected outcome;
 - priority;
-- action owner;
+- owner;
 - contributors;
 - target date;
 - dependencies;
@@ -21,56 +23,65 @@ Each action can include:
 - status;
 - follow-up method.
 
-## Prioritization
+## 3. Prioritization Criteria
 
-Actions can be prioritized according to:
+Actions can be prioritized using:
 
 - quality impact;
 - customer impact;
 - operational risk;
 - compliance relevance;
 - implementation effort;
-- dependencies;
+- dependency level;
 - organizational priorities.
 
-## Roadmap Logic
+## 4. Implementation Roadmap
 
-**Understand → Diagnose → Prioritize → Design → Deploy → Evaluate → Improve**
+### Phase 1 — Understand
+Confirm context, scope, stakeholders, objectives and governance.
 
-### Understand
-Confirm scope, context, stakeholders and objectives.
+### Phase 2 — Diagnose
+Map processes, collect evidence, assess requirements and identify gaps.
 
-### Diagnose
-Map processes, collect evidence and assess current practices.
+### Phase 3 — Prioritize
+Determine critical gaps, risks, dependencies and quick wins.
 
-### Prioritize
-Identify critical gaps, risks and improvement priorities.
+### Phase 4 — Design
+Define target processes, responsibilities, documentation, KPIs and controls.
 
-### Design
-Define target practices, responsibilities, documentation, KPIs and governance.
+### Phase 5 — Deploy
+Implement prioritized actions, communicate changes and develop competencies.
 
-### Deploy
-Implement actions, communicate changes and develop required competencies.
+### Phase 6 — Evaluate
+Monitor KPIs, review evidence, assess effectiveness and identify remaining gaps.
 
-### Evaluate
-Monitor performance, review evidence and assess progress.
+### Phase 7 — Improve
+Execute corrective actions, capture lessons learned and maintain continual improvement.
 
-### Improve
-Address remaining gaps and establish continual-improvement mechanisms.
+## 5. PMO Governance
 
-## PMO Perspective
-
-The roadmap can be managed as a structured transformation initiative through:
+The implementation can be managed through:
 
 - workstreams;
 - milestones;
 - ownership;
 - dependencies;
-- risk and issue tracking;
+- risk and issue registers;
 - stakeholder communication;
 - progress reporting;
+- review meetings;
 - decision and escalation routines.
 
-## Expected Outcome
+## 6. Example Action-Plan Structure
 
-The roadmap provides a practical bridge between ISO 9001 requirements and operational implementation while maintaining alignment between quality, people, processes and performance.
+| Gap | Priority | Action | Owner | Deadline | Evidence | Status |
+|---|---|---|---|---|---|---|
+| Process not formally defined | High | Document process and owner | Process Owner | T+30 | Approved process map | Planned |
+| KPI not standardized | Medium | Define KPI dictionary and review routine | Quality / Management | T+45 | KPI framework | Planned |
+| Corrective actions not centralized | High | Establish action register | Quality | T+30 | Action register | Planned |
+
+## 7. Expected Outcome
+
+The roadmap creates a practical bridge between ISO 9001 requirements and operational implementation, connecting:
+
+**Quality → Processes → People → Governance → Performance → Improvement**
