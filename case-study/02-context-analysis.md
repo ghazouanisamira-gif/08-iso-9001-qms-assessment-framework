@@ -1,55 +1,71 @@
 # 02 — Context Analysis
 
-## Purpose
+## 1. Purpose
 
-The context analysis establishes the foundation for understanding the environment in which a Quality Management System would operate.
+Understanding organizational context is a prerequisite for defining a relevant and effective Quality Management System.
 
-The analysis considers both internal and external factors that may influence the organization's ability to achieve intended quality outcomes.
+The analysis considers internal and external factors that may influence the organization's ability to achieve intended quality outcomes.
 
-## Internal Context
+## 2. Internal Context
 
-The assessment considers areas such as:
+The assessment considers:
 
 - organizational structure;
 - roles and responsibilities;
-- existing processes and practices;
+- management practices;
+- existing processes;
 - available resources;
 - competencies;
 - quality objectives;
 - performance indicators;
-- internal communication;
-- documentation and information management;
-- existing improvement practices.
+- communication mechanisms;
+- documented information;
+- existing control practices;
+- improvement initiatives.
 
-## External Context
+The objective is to understand **how quality is actually managed**, not only how it is formally documented.
 
-Relevant external factors may include:
+## 3. External Context
+
+Relevant external factors include:
 
 - customer expectations;
 - market conditions;
 - competitive environment;
 - contractual requirements;
 - regulatory considerations;
-- technology and digital transformation;
-- external partners and suppliers;
-- broader stakeholder expectations.
+- technological developments;
+- suppliers and external partners;
+- stakeholder expectations.
 
-## Strategic Perspective
+These factors can influence process priorities, risks, resources and quality objectives.
 
-Understanding the context helps identify factors that can influence:
+## 4. SWOT-Oriented Reading
 
-- customer satisfaction;
-- service quality;
-- process effectiveness;
-- operational consistency;
-- compliance;
-- risk exposure;
-- improvement priorities.
+A contextual analysis can be translated into four categories:
 
-## Output
+| Dimension | Questions |
+|---|---|
+| Strengths | What existing practices support quality performance? |
+| Weaknesses | Where are practices informal, inconsistent or insufficiently controlled? |
+| Opportunities | Which changes could improve quality or operational effectiveness? |
+| Threats | Which external or internal factors could negatively affect performance? |
 
-The context analysis provides inputs for:
+## 5. Link With ISO 9001
 
-**Interested Parties → Process Mapping → Risk Analysis → QMS Assessment → Action Planning**
+The context analysis supports the understanding of:
 
-This creates a coherent link between organizational reality and ISO 9001 requirements.
+- organizational context;
+- interested parties;
+- QMS scope;
+- process architecture;
+- risks and opportunities;
+- quality objectives.
+
+## 6. Output
+
+The output of the context analysis becomes an input to the next stages:
+
+**Context → Interested Parties → Processes → Risks → QMS Assessment → Action Plan**
+
+This ensures that the proposed QMS is connected to organizational reality rather than treated as a purely documentary exercise.
