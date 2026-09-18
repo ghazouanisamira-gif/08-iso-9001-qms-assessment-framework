@@ -2,42 +2,73 @@
 
 ## Purpose
 
-The self-assessment provides an academic structured review of QMS practices against the main ISO 9001:2015 requirement areas.
+The self-assessment provides a structured academic review of existing quality-management practices against the principal ISO 9001:2015 requirement areas.
 
-It is intended as a diagnostic tool and not as a certification audit.
+It is designed as a **diagnostic exercise**, not as a certification audit.
 
 ## Assessment Logic
 
 **Requirement → Evidence → Current State → Gap → Risk / Priority → Action → Follow-up**
 
-## Requirement Areas
+## Main ISO 9001 Areas
 
-The assessment considers the principal ISO 9001:2015 areas:
+The assessment considers the following requirement areas:
 
-- Context of the organization
-- Leadership
-- Planning
-- Support
-- Operation
-- Performance evaluation
-- Improvement
+### Clause 4 — Context of the Organization
+- Organizational context
+- Interested parties
+- QMS scope
+- Processes and interactions
 
-## Assessment Principles
+### Clause 5 — Leadership
+- Leadership and commitment
+- Quality policy
+- Roles, responsibilities and authorities
 
-The analysis focuses on observable practices and available evidence rather than assumptions.
+### Clause 6 — Planning
+- Risks and opportunities
+- Quality objectives
+- Planning for changes
 
-Typical evidence categories include:
+### Clause 7 — Support
+- Resources
+- Competence
+- Awareness
+- Communication
+- Documented information
 
-- documented information;
+### Clause 8 — Operation
+- Operational planning and control
+- Customer requirements
+- Service/product provision
+- Control of externally provided processes
+
+### Clause 9 — Performance Evaluation
+- Monitoring and measurement
+- Customer satisfaction
+- Internal audit
+- Management review
+
+### Clause 10 — Improvement
+- Nonconformity and corrective action
+- Continual improvement
+
+## Evidence-Based Approach
+
+The assessment focuses on available evidence such as:
+
 - process descriptions;
 - responsibilities;
+- documented information;
 - objectives and KPIs;
-- competence and training;
+- competence and training records;
 - operational controls;
-- performance monitoring;
+- monitoring practices;
 - corrective actions;
 - improvement records.
 
 ## Output
 
-The assessment provides a structured basis for prioritizing actions and preparing an implementation roadmap.
+The assessment produces a structured view of strengths, gaps, risks and improvement priorities that feeds the action plan and implementation roadmap.
+
+> It should not be interpreted as a formal ISO certification audit or a certification-readiness conclusion.
