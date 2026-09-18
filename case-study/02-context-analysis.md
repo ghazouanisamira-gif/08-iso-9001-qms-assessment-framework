@@ -2,70 +2,97 @@
 
 ## 1. Purpose
 
-Understanding organizational context is a prerequisite for defining a relevant and effective Quality Management System.
+The context analysis establishes the baseline needed to understand the environment in which the Quality Management System would operate.
 
-The analysis considers internal and external factors that may influence the organization's ability to achieve intended quality outcomes.
+It combines organizational analysis with strategic tools such as **PESTEL** and **SWOT**.
 
 ## 2. Internal Context
 
-The assessment considers:
+The internal analysis considers:
 
 - organizational structure;
+- governance;
 - roles and responsibilities;
-- management practices;
-- existing processes;
-- available resources;
+- operational processes;
+- resources;
 - competencies;
-- quality objectives;
+- quality practices;
+- information systems;
+- communication;
+- documentation;
 - performance indicators;
-- communication mechanisms;
-- documented information;
-- existing control practices;
-- improvement initiatives.
+- customer-related practices;
+- existing improvement initiatives.
 
-The objective is to understand **how quality is actually managed**, not only how it is formally documented.
+The objective is to identify factors that can support or hinder the effectiveness of the QMS.
 
 ## 3. External Context
 
-Relevant external factors include:
+The external analysis considers:
 
 - customer expectations;
 - market conditions;
 - competitive environment;
-- contractual requirements;
-- regulatory considerations;
-- technological developments;
+- economic conditions;
+- technological evolution;
+- regulatory and legal considerations;
+- social factors;
+- environmental considerations;
 - suppliers and external partners;
-- stakeholder expectations.
+- contractual expectations.
 
-These factors can influence process priorities, risks, resources and quality objectives.
+## 4. PESTEL Analysis
 
-## 4. SWOT-Oriented Reading
-
-A contextual analysis can be translated into four categories:
+The PESTEL framework provides a structured view of external influences:
 
 | Dimension | Questions |
 |---|---|
-| Strengths | What existing practices support quality performance? |
-| Weaknesses | Where are practices informal, inconsistent or insufficiently controlled? |
-| Opportunities | Which changes could improve quality or operational effectiveness? |
-| Threats | Which external or internal factors could negatively affect performance? |
+| **Political** | Which institutional or public-policy factors may influence the organization? |
+| **Economic** | Which economic trends may affect demand, costs or resources? |
+| **Sociological** | Which workforce, customer or social trends matter? |
+| **Technological** | Which technologies affect processes, information and service delivery? |
+| **Ecological** | Which environmental expectations or constraints are relevant? |
+| **Legal** | Which laws, regulations and contractual requirements must be considered? |
 
-## 5. Link With ISO 9001
+## 5. SWOT Analysis
 
-The context analysis supports the understanding of:
+The SWOT framework consolidates the diagnosis:
+
+| Dimension | Focus |
+|---|---|
+| **Strengths** | Existing capabilities and practices supporting quality |
+| **Weaknesses** | Gaps, inconsistencies or limitations |
+| **Opportunities** | Potential improvements and favorable developments |
+| **Threats** | External or internal factors that may affect performance |
+
+## 6. Strategic Interpretation
+
+The purpose of PESTEL and SWOT is not simply to produce descriptive tables.
+
+The analyses should support decisions concerning:
+
+- QMS priorities;
+- quality objectives;
+- process controls;
+- risk treatment;
+- resources;
+- improvement actions.
+
+## 7. Link With ISO 9001
+
+Context analysis supports the understanding of:
 
 - organizational context;
 - interested parties;
 - QMS scope;
-- process architecture;
+- processes;
 - risks and opportunities;
-- quality objectives.
+- strategic direction.
 
-## 6. Output
+## 8. Output
 
-The output of the context analysis becomes an input to the next stages:
+The contextual diagnosis becomes the baseline for:
 
-**Context → Interested Parties → Processes → Risks → QMS Assessment → Action Plan**
+**Stakeholder Analysis → Process Mapping → Risk Analysis → ISO Assessment → Action Plan**
 
-This ensures that the proposed QMS is connected to organizational reality rather than treated as a purely documentary exercise.
+This creates continuity between strategic analysis and operational improvement.
