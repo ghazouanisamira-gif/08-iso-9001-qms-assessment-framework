@@ -2,34 +2,60 @@
 
 ## Interested Parties
 
-The analysis considers relevant interested parties such as:
+The project identifies relevant interested parties whose needs and expectations may influence the QMS.
+
+Examples include:
 
 - customers;
 - employees and operational teams;
 - management;
 - suppliers and external partners;
-- regulatory or contractual stakeholders.
+- contractual stakeholders;
+- regulatory or institutional stakeholders.
 
-For each relevant party, the framework considers expectations, potential impact and the way these expectations may affect the QMS.
+The analysis considers their expectations, influence, relevant requirements and potential impact on quality performance.
 
 ## Risk-Based Thinking
 
-The project applies a structured approach to identify:
+The project applies risk-based thinking to identify potential factors that could affect:
 
-- potential sources of process failure;
-- quality and customer risks;
-- operational dependencies;
-- weaknesses in controls;
-- opportunities for improvement.
+- process effectiveness;
+- customer satisfaction;
+- service quality;
+- operational continuity;
+- compliance;
+- achievement of quality objectives.
 
-## Prioritization
+## Risk Analysis
 
-Identified issues can be prioritized according to:
+Potential risks are considered through dimensions such as:
 
-**Impact × Likelihood × Control / Exposure**
+**Impact × Likelihood × Existing Controls / Exposure**
 
-The purpose is to focus improvement effort on the areas with the greatest potential effect on quality and operational performance.
+This allows issues to be prioritized rather than treated equally.
+
+## Opportunities
+
+The analysis also considers opportunities to:
+
+- standardize practices;
+- improve process performance;
+- strengthen controls;
+- clarify responsibilities;
+- improve customer experience;
+- develop competencies;
+- reinforce monitoring and continuous improvement.
 
 ## Governance Link
 
-Risk analysis is connected to action ownership, deadlines, monitoring and escalation so that risks become manageable project items rather than static observations.
+Risk analysis is connected to project governance through:
+
+- ownership;
+- mitigation actions;
+- deadlines;
+- dependencies;
+- monitoring;
+- escalation;
+- review.
+
+This transforms risk analysis into an active management mechanism rather than a static assessment.
