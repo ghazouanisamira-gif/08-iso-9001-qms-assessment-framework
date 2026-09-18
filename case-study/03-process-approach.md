@@ -1,34 +1,51 @@
 # 03 — Process Approach
 
-## Objective
+## Purpose
 
-The process approach was used to understand how activities, responsibilities, inputs, outputs and performance measures interact within the organization.
+The process approach was used to understand how activities interact and contribute to intended outcomes.
 
-## Process Mapping Logic
+Rather than considering activities in isolation, the analysis focuses on processes, their interfaces, inputs, outputs, responsibilities, controls and performance.
+
+## Process Logic
 
 **Inputs → Activities → Outputs → Customers / Interested Parties**
 
 For each process, the analysis considers:
 
-- purpose and expected outputs;
-- process owner and contributors;
+- process purpose;
+- expected outputs;
 - inputs and resources;
-- key activities and interfaces;
+- process owner;
+- contributors;
+- activities and sequence;
+- interfaces with other processes;
 - risks and controls;
 - performance indicators;
-- supporting documentation;
+- documented information;
 - improvement opportunities.
 
-## Process Perspective
+## Process Interactions
 
-The approach helps move from isolated activities to an integrated management view, where process interactions and performance are considered together.
+The process approach supports identification of:
+
+- upstream and downstream dependencies;
+- handover points;
+- potential failure points;
+- duplicated or unclear responsibilities;
+- control gaps;
+- opportunities for standardization.
 
 ## Management Perspective
 
-From a PMO perspective, process mapping also provides a foundation for:
+Process mapping also provides a foundation for project and governance activities:
 
 - defining workstreams;
-- clarifying responsibilities;
+- assigning responsibilities;
 - identifying dependencies;
+- establishing milestones;
 - tracking improvement actions;
-- structuring governance and reporting.
+- structuring reporting.
+
+## Output
+
+The process analysis creates a bridge between operational practices and the requirements of a structured Quality Management System.
