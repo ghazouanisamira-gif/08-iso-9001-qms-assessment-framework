@@ -1,16 +1,16 @@
-# 03 — Process Approach
+# 03 — Process Approach & Quality Management
 
-## 1. Purpose
+## Purpose
 
-The process approach is central to the project because a QMS must consider how activities interact to produce intended results.
+The process approach is the operational backbone of the project.
 
-The analysis therefore moves from isolated activities toward an interconnected process system.
+Rather than viewing activities in isolation, the analysis considers how processes interact to produce intended results for customers and other interested parties.
 
-## 2. Process Logic
+## Process Logic
 
 **Inputs → Activities → Outputs → Customers / Interested Parties**
 
-For each process, the project considers:
+For each process, the analysis considers:
 
 - purpose;
 - inputs;
@@ -26,9 +26,9 @@ For each process, the project considers:
 - documented information;
 - improvement opportunities.
 
-## 3. Process Mapping
+## Process Architecture
 
-The process map is intended to make visible:
+The process map distinguishes, where relevant:
 
 - strategic processes;
 - operational processes;
@@ -39,29 +39,31 @@ The process map is intended to make visible:
 - control points;
 - dependencies.
 
-## 4. SIPOC Perspective
+This makes the organization easier to understand from an end-to-end perspective.
 
-A SIPOC representation can be used to establish a high-level baseline:
+## SIPOC Perspective
+
+A high-level SIPOC can be used to establish the baseline:
 
 **Suppliers → Inputs → Process → Outputs → Customers**
 
-This helps identify dependencies before detailed process analysis.
+It helps identify dependencies and interfaces before moving into detailed process analysis.
 
-## 5. Process Interfaces
+## Process Interfaces
 
 Particular attention is given to:
 
 - unclear ownership;
-- handover points;
+- weak handovers;
 - duplicated activities;
 - missing controls;
 - information-flow gaps;
 - inconsistent practices;
-- dependencies between processes.
+- cross-functional dependencies.
 
-## 6. Process Performance
+## Process Performance
 
-Process effectiveness can be monitored through indicators relating to:
+Potential indicators cover:
 
 - quality;
 - customer satisfaction;
@@ -70,19 +72,39 @@ Process effectiveness can be monitored through indicators relating to:
 - compliance;
 - timeliness;
 - risk;
-- corrective actions.
+- corrective-action effectiveness.
 
-## 7. Governance Perspective
+## Seven Quality Management Principles
 
-The process map also provides a basis for project management:
+The project connects the process approach with the seven quality management principles:
+
+1. **Customer focus** — understand requirements and satisfaction.
+2. **Leadership** — establish direction and accountability.
+3. **Engagement of people** — involve competent contributors.
+4. **Process approach** — manage activities as an interconnected system.
+5. **Improvement** — continuously improve suitability and effectiveness.
+6. **Evidence-based decision making** — use reliable information and analysis.
+7. **Relationship management** — manage relevant interested-party relationships.
+
+## PDCA
+
+The continuous-improvement logic is structured through:
+
+**Plan → Do → Check → Act**
+
+PDCA links planning, execution, performance evaluation and adjustment.
+
+## Governance Link
+
+The process model creates a practical management chain:
 
 **Process → Owner → KPI → Risk → Action → Review**
 
 This connects QMS requirements with accountability and measurable performance.
 
-## 8. Expected Output
+## Expected Output
 
-The process approach provides the operational backbone for the QMS and feeds:
+The process approach feeds:
 
 - risk analysis;
 - ISO self-assessment;
