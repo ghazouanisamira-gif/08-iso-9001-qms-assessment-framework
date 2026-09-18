@@ -2,134 +2,130 @@
 
 **Academic Case Study | Professional Master's in Integrated QSE/QHSE Management | 2019–2020**
 
-## Project Background
+## From Quality Diagnosis to a Structured QMS Implementation Roadmap
 
-Final-year Master's project focused on the **initiation of a Quality Management System (QMS) according to ISO 9001:2015** within an anonymized service-sector organization.
+This applied academic project focused on the **initiation of a Quality Management System (QMS) aligned with ISO 9001:2015** within an anonymized service-sector organization.
 
-The original academic work combined:
-- a general project framework;
-- a theoretical review of Quality Management and ISO 9001:2015;
-- process approach and continuous improvement;
-- project planning;
-- PESTEL and SWOT analyses;
-- stakeholder identification;
-- process mapping;
-- risk identification and evaluation;
-- ISO 9001 self-assessment;
-- action planning;
-- results analysis and perspectives.
+The work went beyond a theoretical review of the standard. It connected **organizational diagnosis, strategic analysis, process mapping, stakeholder analysis, risk management, ISO 9001 self-assessment and action planning** to establish a structured foundation for QMS implementation.
 
-This portfolio version preserves that project logic while removing the identity of the host organization and any confidential organizational information.
+The portfolio version preserves the original analytical logic while intentionally removing the identity of the organization and confidential operational information.
 
-## Problematic
+## Project Challenge
 
-**How can an organization structure the foundations of a Quality Management System aligned with ISO 9001:2015 by connecting organizational context, processes, risks, stakeholder expectations, quality requirements and an actionable improvement plan?**
+**How can an organization structure the foundations of a Quality Management System aligned with ISO 9001:2015 while connecting organizational context, processes, stakeholder expectations, risks, quality requirements and an actionable improvement plan?**
 
 ## Main Objective
 
-Assess the existing quality-management practices against ISO 9001:2015, identify gaps and improvement opportunities, and propose a structured approach for initiating and progressively implementing a QMS.
+Assess existing quality-management practices against the principal areas of ISO 9001:2015, identify gaps and improvement opportunities, and translate the findings into a structured approach for initiating and progressively implementing a QMS.
 
 ## Specific Objectives
 
 - Analyze internal and external context.
 - Identify relevant interested parties and their needs and expectations.
-- Understand and structure the organization's processes.
-- Apply the process approach and risk-based thinking.
-- Review existing practices against ISO 9001:2015 requirements.
+- Frame the project using QQOQCP.
+- Structure the organization through a process approach.
+- Identify process interactions, ownership, controls and performance indicators.
+- Apply risk-based thinking.
+- Assess practices against ISO 9001:2015 requirements.
 - Identify gaps, risks and improvement opportunities.
 - Prioritize actions.
-- Define responsibilities and monitoring mechanisms.
+- Define responsibilities and follow-up mechanisms.
 - Build an implementation roadmap.
 - Connect Quality Management with project governance and continuous improvement.
 
-## Methodology
+## Project Methodology
 
-The project combines the following methods and tools:
+**QQOQCP → Strategic Diagnosis → PESTEL → SWOT → Stakeholder Analysis → Process Mapping → Risk Management → ISO 9001 Self-Assessment → Gap Analysis → Action Plan → Implementation Roadmap**
 
-**QQOQCP → Strategic Context → PESTEL → SWOT → Process Mapping → Stakeholder Analysis → Risk Management → ISO 9001 Self-Assessment → Gap Analysis → Action Plan → Roadmap**
-
-The overall improvement logic is:
+### Transformation Logic
 
 **Understand → Diagnose → Map → Assess → Prioritize → Plan → Execute → Evaluate → Improve**
 
-## Academic Scope
+This sequence connects strategy, operational processes, risk management and QMS requirements into a coherent improvement cycle.
 
-This work is an **academic project on the initiation of a QMS**.
+## What the Project Covered
+
+### 01 — Context & Strategic Objectives
+Problem framing, QQOQCP, scope, objectives and strategic alignment.
+
+### 02 — Context Analysis
+Internal/external context, PESTEL, SWOT and implications for the QMS.
+
+### 03 — Process Approach
+Process architecture, interactions, SIPOC logic, ownership, inputs, outputs, controls, KPIs and improvement opportunities.
+
+### 04 — Interested Parties & Risks
+Stakeholder expectations, risk identification, evaluation, mitigation and governance.
+
+### 05 — ISO 9001 Self-Assessment
+Structured diagnostic covering the principal requirement areas of ISO 9001:2015, evidence collection, gap analysis and result interpretation.
+
+### 06 — Action Plan & Roadmap
+Prioritization, responsibilities, dependencies, milestones, action tracking and implementation sequencing.
+
+## Quality Management Perspective
+
+The project incorporates the seven quality management principles:
+
+1. Customer focus
+2. Leadership
+3. Engagement of people
+4. Process approach
+5. Improvement
+6. Evidence-based decision making
+7. Relationship management
+
+It also uses the **PDCA cycle** and risk-based thinking as management mechanisms for continuous improvement.
+
+## Project Management / PMO Perspective
+
+The QMS initiative was structured as a transformation project, with attention to:
+
+- scope and objectives;
+- stakeholders;
+- workstreams;
+- responsibilities;
+- deliverables;
+- milestones;
+- dependencies;
+- risks and issues;
+- action tracking;
+- progress monitoring;
+- review and escalation;
+- continuous improvement.
+
+This creates a bridge between:
+
+**Quality Requirements → Processes → People → Governance → Performance → Improvement**
+
+## Key Portfolio Deliverables
+
+- QMS assessment framework
+- ISO 9001 clause mapping
+- QMS readiness / maturity matrix
+- Stakeholder analysis framework
+- Process and SIPOC logic
+- Risk assessment framework
+- ISO self-assessment matrix
+- Gap-analysis logic
+- Action register
+- Project planning structure
+- QMS implementation roadmap
+- PMO governance cycle
+
+## Academic Scope & Integrity
+
+This is an **academic applied project focused on the assessment and initiation of a QMS**.
 
 It should not be interpreted as:
+
 - a completed ISO 9001 certification project;
 - an accredited certification audit;
 - a formal certification-readiness opinion;
 - evidence that certification was obtained.
 
-## Case Study Structure
-
-### 01 — Context & Objectives
-Project context, problematic, objectives, scope and expected contribution.
-
-### 02 — Context Analysis
-Internal/external environment and strategic analysis using PESTEL and SWOT.
-
-### 03 — Process Approach
-Process identification, interactions, ownership, inputs, outputs, controls and performance.
-
-### 04 — Interested Parties & Risks
-Stakeholder expectations, risk identification, risk evaluation and opportunities.
-
-### 05 — ISO 9001 Self-Assessment
-Diagnostic against the principal ISO 9001:2015 requirement areas.
-
-### 06 — Action Plan & Roadmap
-Prioritization, action planning, implementation sequencing and project governance.
-
-## Frameworks
-
-- **QMS Assessment Framework**
-- **ISO 9001 Project Tools**
-- **ISO 9001 Clause Mapping**
-- **QMS Readiness Matrix**
-- **QMS Implementation Roadmap**
-
-## Project Management Perspective
-
-The project is structured as a transformation initiative involving:
-
-**Scope → Stakeholders → Diagnosis → Priorities → Workstreams → Actions → Monitoring → Improvement**
-
-Key project-management dimensions include:
-- planning;
-- responsibilities;
-- milestones;
-- dependencies;
-- risks and issues;
-- stakeholder communication;
-- evidence and deliverables;
-- progress monitoring;
-- review and escalation.
-
-## Quality Management Concepts Covered
-
-- ISO 9001:2015
-- Quality Management System
-- Quality Management Principles
-- Customer Orientation
-- Leadership
-- Engagement of People
-- Process Approach
-- Improvement
-- Evidence-based Decision Making
-- Relationship Management
-- PDCA
-- Risk-based Thinking
-- PESTEL
-- SWOT
-- QQOQCP
-- Process Mapping
-- Risk Management
-- Gap Analysis
-- Corrective Action
-- Continuous Improvement
+The portfolio intentionally emphasizes the **methodology, analytical approach, project structuring and transferable Quality/PMO capabilities** demonstrated through the work.
 
 ## Confidentiality
 
-This portfolio version is intentionally anonymized. The identity of the host organization, its clients, proprietary information and confidential operational details are not disclosed.
+The organization, its clients, proprietary information and confidential operational details are intentionally anonymized. Company-specific identifiers, internal figures and identifying visuals are excluded from this public portfolio version.
