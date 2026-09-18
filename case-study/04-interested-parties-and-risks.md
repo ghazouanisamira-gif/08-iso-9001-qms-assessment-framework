@@ -1,10 +1,14 @@
-# 04 — Interested Parties & Risks
+# 04 — Interested Parties & Risk Management
 
-## 1. Interested Parties
+## Purpose
 
-The project identifies interested parties whose needs and expectations may affect the QMS.
+A QMS must consider the needs and expectations of relevant interested parties and the risks and opportunities that can affect intended results.
 
-Typical categories include:
+The project therefore combines **stakeholder analysis and process-based risk management**.
+
+## Interested Parties
+
+Relevant categories may include:
 
 - customers;
 - employees;
@@ -15,21 +19,21 @@ Typical categories include:
 - contractual stakeholders;
 - regulatory or institutional stakeholders.
 
-## 2. Stakeholder Needs & Expectations
-
-The analysis considers:
+## Stakeholder Analysis
 
 | Dimension | Purpose |
 |---|---|
 | Stakeholder | Identify the relevant party |
-| Need / expectation | Understand what matters to the stakeholder |
+| Need / expectation | Understand what matters |
 | Influence | Assess ability to affect decisions or outcomes |
 | Impact | Assess effect on quality and performance |
-| Engagement | Define appropriate involvement and communication |
+| Engagement | Define involvement and communication |
 
-## 3. Risk Management
+The analysis supports both QMS design and project governance.
 
-Risk-based thinking is integrated into the process approach.
+## Risk-Based Thinking
+
+Risk analysis is integrated into the process approach.
 
 Potential risk categories include:
 
@@ -45,50 +49,52 @@ Potential risk categories include:
 - compliance exposure;
 - ineffective corrective actions.
 
-## 4. Risk Identification
+## Risk Identification
 
-For each process, the assessment can identify:
+For each process, the assessment can follow:
 
 **Risk → Cause → Consequence → Existing Control → Additional Action → Owner**
 
-## 5. Risk Evaluation
+This links risk identification directly to management action.
 
-A structured evaluation can use:
+## Risk Evaluation
+
+A structured approach can use:
 
 **Impact × Likelihood**
 
-with consideration of the strength of existing controls.
+with consideration of existing controls.
 
-The purpose is to distinguish priorities and focus resources on risks with significant potential impact.
+The purpose is to distinguish priority risks and focus resources where potential consequences are significant.
 
-## 6. Risk Matrix
+## Risk Matrix
 
-| Impact | Likelihood | Interpretation |
+| Impact | Likelihood | Typical Treatment |
 |---|---|---|
 | Low | Low | Monitor |
-| Low | High | Review controls |
+| Low | High | Review / strengthen controls |
 | High | Low | Prepare mitigation |
 | High | High | Priority action |
 
-The actual scoring scale should be defined consistently for the organization being assessed.
+The actual scoring scale must be defined consistently for the organization being assessed.
 
-## 7. Opportunities
+## Opportunities
 
-Risk analysis also identifies opportunities to:
+Risk analysis can also reveal opportunities to:
 
 - standardize processes;
-- improve controls;
 - clarify ownership;
-- strengthen customer experience;
+- strengthen controls;
+- improve customer experience;
 - improve information visibility;
 - develop competencies;
-- improve KPI monitoring;
-- strengthen continuous improvement.
+- strengthen KPI monitoring;
+- accelerate continuous improvement.
 
-## 8. Governance Link
+## Governance Link
 
-Risks and opportunities are integrated into project governance through:
+Risk management becomes an active management mechanism:
 
 **Risk → Owner → Mitigation / Improvement Action → Deadline → Evidence → Review**
 
-This transforms risk management from a static register into an active management mechanism.
+This connects QMS risk-based thinking with project governance and follow-up.
