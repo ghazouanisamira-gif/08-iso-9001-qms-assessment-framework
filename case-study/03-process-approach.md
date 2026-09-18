@@ -2,74 +2,90 @@
 
 ## 1. Purpose
 
-The process approach was used to understand how activities interact and contribute to intended outcomes.
+The process approach is central to the project because a QMS must consider how activities interact to produce intended results.
 
-Instead of reviewing activities independently, the analysis considers processes as interconnected systems with inputs, activities, outputs, owners, controls and performance indicators.
+The analysis therefore moves from isolated activities toward an interconnected process system.
 
 ## 2. Process Logic
 
 **Inputs → Activities → Outputs → Customers / Interested Parties**
 
-For each process, the assessment considers:
+For each process, the project considers:
 
 - purpose;
-- expected outputs;
 - inputs;
 - resources;
+- activities;
+- outputs;
 - process owner;
 - contributors;
-- sequence of activities;
 - interfaces;
-- risks;
 - controls;
+- risks;
 - KPIs;
 - documented information;
 - improvement opportunities.
 
 ## 3. Process Mapping
 
-A process map helps make visible:
+The process map is intended to make visible:
 
-- the relationship between strategic, operational and support processes;
-- upstream and downstream dependencies;
-- handover points;
+- strategic processes;
+- operational processes;
+- support processes;
+- process interactions;
+- handovers;
 - responsibilities;
-- potential failure points;
-- duplicated activities;
-- control gaps;
-- opportunities for standardization.
+- control points;
+- dependencies.
 
 ## 4. SIPOC Perspective
 
-A SIPOC-style view can be used to structure each major process:
+A SIPOC representation can be used to establish a high-level baseline:
 
 **Suppliers → Inputs → Process → Outputs → Customers**
 
-This provides a concise way of connecting operational activities with stakeholder expectations.
+This helps identify dependencies before detailed process analysis.
 
-## 5. Process Performance
+## 5. Process Interfaces
 
-The analysis also considers how each process can be monitored through:
+Particular attention is given to:
 
-- quality indicators;
-- efficiency indicators;
-- customer-related indicators;
-- compliance indicators;
-- risk indicators;
-- action-plan indicators.
+- unclear ownership;
+- handover points;
+- duplicated activities;
+- missing controls;
+- information-flow gaps;
+- inconsistent practices;
+- dependencies between processes.
 
-## 6. Governance Perspective
+## 6. Process Performance
 
-Process mapping supports project governance by providing a basis for:
+Process effectiveness can be monitored through indicators relating to:
 
-- workstream definition;
-- ownership;
-- responsibility matrices;
-- milestone planning;
-- dependency identification;
-- risk tracking;
-- reporting.
+- quality;
+- customer satisfaction;
+- productivity;
+- efficiency;
+- compliance;
+- timeliness;
+- risk;
+- corrective actions.
 
-## 7. Output
+## 7. Governance Perspective
 
-The process approach creates a bridge between operational reality and QMS requirements while providing a practical foundation for continuous improvement.
+The process map also provides a basis for project management:
+
+**Process → Owner → KPI → Risk → Action → Review**
+
+This connects QMS requirements with accountability and measurable performance.
+
+## 8. Expected Output
+
+The process approach provides the operational backbone for the QMS and feeds:
+
+- risk analysis;
+- ISO self-assessment;
+- action planning;
+- implementation roadmap;
+- continuous improvement.
