@@ -2,9 +2,9 @@
 
 ## 1. Interested Parties
 
-A QMS must take into account the needs and expectations of relevant interested parties.
+The project identifies interested parties whose needs and expectations may affect the QMS.
 
-The project considers stakeholders such as:
+Typical categories include:
 
 - customers;
 - employees;
@@ -15,68 +15,80 @@ The project considers stakeholders such as:
 - contractual stakeholders;
 - regulatory or institutional stakeholders.
 
-## 2. Stakeholder Analysis
+## 2. Stakeholder Needs & Expectations
 
-A practical stakeholder analysis can assess:
+The analysis considers:
 
 | Dimension | Purpose |
 |---|---|
-| Interest | Understand expectations and concerns |
-| Influence | Identify decision or impact power |
-| Impact | Assess potential effect on quality |
-| Requirements | Identify relevant needs |
-| Engagement | Define communication and involvement |
+| Stakeholder | Identify the relevant party |
+| Need / expectation | Understand what matters to the stakeholder |
+| Influence | Assess ability to affect decisions or outcomes |
+| Impact | Assess effect on quality and performance |
+| Engagement | Define appropriate involvement and communication |
 
-## 3. Risk-Based Thinking
+## 3. Risk Management
 
-Risk-based thinking is integrated into the assessment to identify factors that may affect:
+Risk-based thinking is integrated into the process approach.
 
-- conformity of outputs;
-- customer satisfaction;
-- process effectiveness;
-- operational continuity;
-- achievement of quality objectives;
-- compliance;
-- resource availability.
+Potential risk categories include:
+
+- process failure;
+- unclear responsibilities;
+- weak interfaces;
+- inconsistent practices;
+- insufficient resources;
+- competency gaps;
+- information-management issues;
+- customer dissatisfaction;
+- service interruption;
+- compliance exposure;
+- ineffective corrective actions.
 
 ## 4. Risk Identification
 
-Potential risk sources may include:
+For each process, the assessment can identify:
 
-- unclear responsibilities;
-- weak process interfaces;
-- inconsistent practices;
-- insufficient documentation;
-- competency gaps;
-- inadequate monitoring;
-- dependency on external providers;
-- ineffective corrective actions.
+**Risk → Cause → Consequence → Existing Control → Additional Action → Owner**
 
-## 5. Risk Prioritization
+## 5. Risk Evaluation
 
-A simple prioritization logic can be expressed as:
+A structured evaluation can use:
 
-**Risk Priority = Impact × Likelihood**, interpreted together with the effectiveness of existing controls.
+**Impact × Likelihood**
 
-The purpose is not to create a theoretical risk score, but to focus resources on issues with meaningful potential consequences.
+with consideration of the strength of existing controls.
 
-## 6. Opportunities
+The purpose is to distinguish priorities and focus resources on risks with significant potential impact.
 
-The same analysis can identify opportunities to:
+## 6. Risk Matrix
 
-- standardize practices;
+| Impact | Likelihood | Interpretation |
+|---|---|---|
+| Low | Low | Monitor |
+| Low | High | Review controls |
+| High | Low | Prepare mitigation |
+| High | High | Priority action |
+
+The actual scoring scale should be defined consistently for the organization being assessed.
+
+## 7. Opportunities
+
+Risk analysis also identifies opportunities to:
+
+- standardize processes;
+- improve controls;
 - clarify ownership;
-- strengthen controls;
-- improve customer experience;
-- improve data visibility;
+- strengthen customer experience;
+- improve information visibility;
 - develop competencies;
-- strengthen performance monitoring;
-- establish more systematic improvement routines.
+- improve KPI monitoring;
+- strengthen continuous improvement.
 
-## 7. Governance Link
+## 8. Governance Link
 
-Risks and opportunities are connected to implementation through:
+Risks and opportunities are integrated into project governance through:
 
 **Risk → Owner → Mitigation / Improvement Action → Deadline → Evidence → Review**
 
-This turns risk management into an active component of project governance.
+This transforms risk management from a static register into an active management mechanism.
