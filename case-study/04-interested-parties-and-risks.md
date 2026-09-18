@@ -1,61 +1,82 @@
 # 04 — Interested Parties & Risks
 
-## Interested Parties
+## 1. Interested Parties
 
-The project identifies relevant interested parties whose needs and expectations may influence the QMS.
+A QMS must take into account the needs and expectations of relevant interested parties.
 
-Examples include:
+The project considers stakeholders such as:
 
 - customers;
-- employees and operational teams;
+- employees;
+- operational teams;
 - management;
-- suppliers and external partners;
+- suppliers;
+- external partners;
 - contractual stakeholders;
 - regulatory or institutional stakeholders.
 
-The analysis considers their expectations, influence, relevant requirements and potential impact on quality performance.
+## 2. Stakeholder Analysis
 
-## Risk-Based Thinking
+A practical stakeholder analysis can assess:
 
-The project applies risk-based thinking to identify potential factors that could affect:
+| Dimension | Purpose |
+|---|---|
+| Interest | Understand expectations and concerns |
+| Influence | Identify decision or impact power |
+| Impact | Assess potential effect on quality |
+| Requirements | Identify relevant needs |
+| Engagement | Define communication and involvement |
 
-- process effectiveness;
+## 3. Risk-Based Thinking
+
+Risk-based thinking is integrated into the assessment to identify factors that may affect:
+
+- conformity of outputs;
 - customer satisfaction;
-- service quality;
+- process effectiveness;
 - operational continuity;
+- achievement of quality objectives;
 - compliance;
-- achievement of quality objectives.
+- resource availability.
 
-## Risk Analysis
+## 4. Risk Identification
 
-Potential risks are considered through dimensions such as:
+Potential risk sources may include:
 
-**Impact × Likelihood × Existing Controls / Exposure**
+- unclear responsibilities;
+- weak process interfaces;
+- inconsistent practices;
+- insufficient documentation;
+- competency gaps;
+- inadequate monitoring;
+- dependency on external providers;
+- ineffective corrective actions.
 
-This allows issues to be prioritized rather than treated equally.
+## 5. Risk Prioritization
 
-## Opportunities
+A simple prioritization logic can be expressed as:
 
-The analysis also considers opportunities to:
+**Risk Priority = Impact × Likelihood**, interpreted together with the effectiveness of existing controls.
+
+The purpose is not to create a theoretical risk score, but to focus resources on issues with meaningful potential consequences.
+
+## 6. Opportunities
+
+The same analysis can identify opportunities to:
 
 - standardize practices;
-- improve process performance;
+- clarify ownership;
 - strengthen controls;
-- clarify responsibilities;
 - improve customer experience;
+- improve data visibility;
 - develop competencies;
-- reinforce monitoring and continuous improvement.
+- strengthen performance monitoring;
+- establish more systematic improvement routines.
 
-## Governance Link
+## 7. Governance Link
 
-Risk analysis is connected to project governance through:
+Risks and opportunities are connected to implementation through:
 
-- ownership;
-- mitigation actions;
-- deadlines;
-- dependencies;
-- monitoring;
-- escalation;
-- review.
+**Risk → Owner → Mitigation / Improvement Action → Deadline → Evidence → Review**
 
-This transforms risk analysis into an active management mechanism rather than a static assessment.
+This turns risk management into an active component of project governance.
