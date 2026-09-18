@@ -4,34 +4,107 @@
 
 A practical toolkit for structuring a QMS assessment or implementation initiative from a project-management perspective.
 
-## Core Tools
+## 1. Project Charter
 
-### Project Charter
-Defines scope, objectives, stakeholders, deliverables, assumptions and constraints.
+Defines:
 
-### Stakeholder Register
-Identifies stakeholders, expectations, influence, engagement needs and communication approach.
+- business / quality context;
+- objectives;
+- scope;
+- deliverables;
+- stakeholders;
+- assumptions;
+- constraints;
+- governance.
 
-### Process Map
-Visualizes process sequence, interactions, ownership, inputs, outputs and controls.
+## 2. Stakeholder Register
 
-### Risk Register
-Captures risks, causes, impacts, probability, controls, mitigation actions and owners.
+Captures:
 
-### Gap Analysis
-Connects requirements, evidence, current state, gaps and improvement priorities.
+- stakeholder;
+- role;
+- interest;
+- influence;
+- expectations;
+- engagement needs;
+- communication approach.
 
-### Action Plan
-Converts findings into accountable actions with milestones and follow-up.
+## 3. Process Map
 
-### Responsibility Matrix
-Clarifies ownership and contribution across workstreams.
+Documents:
 
-### KPI Framework
-Connects objectives to measurable indicators and review routines.
+- process purpose;
+- inputs;
+- activities;
+- outputs;
+- customers;
+- owner;
+- interfaces;
+- risks;
+- KPIs.
 
-### Milestone Tracker
-Provides visibility on implementation progress and dependencies.
+## 4. SIPOC
+
+**Suppliers → Inputs → Process → Outputs → Customers**
+
+Useful for establishing a high-level process baseline before detailed mapping.
+
+## 5. Risk Register
+
+Tracks:
+
+- risk;
+- cause;
+- impact;
+- likelihood;
+- existing controls;
+- mitigation;
+- owner;
+- status.
+
+## 6. Gap Analysis
+
+Connects:
+
+**Requirement → Evidence → Current State → Gap → Risk → Action**
+
+## 7. Action Plan
+
+Defines:
+
+- action;
+- priority;
+- owner;
+- deadline;
+- dependencies;
+- expected evidence;
+- status.
+
+## 8. Responsibility Matrix
+
+Clarifies who is:
+
+- accountable;
+- responsible;
+- consulted;
+- informed.
+
+## 9. KPI Framework
+
+Connects:
+
+**Objective → KPI → Definition → Data Source → Frequency → Owner → Target → Review**
+
+## 10. Milestone Tracker
+
+Provides visibility on:
+
+- deliverables;
+- milestones;
+- dependencies;
+- delays;
+- decisions;
+- next actions.
 
 ## Project Logic
 
